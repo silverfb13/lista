@@ -1,5 +1,4 @@
 #EXTM3U
-#----- Globo -----#
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO FHD [P]" tvg-logo="" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6860
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO HD [P]" tvg-logo="" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO HD [P]
@@ -330,7 +329,6 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6905
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6949
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL HD (BR2)" tvg-logo="" group-title="Canais • Globo",GLOBO TV GAZETA SUL HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6950
-#----- Reality Show -----#
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="" group-title="Canais • Reality Shows",BBB CAM 1
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3706
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="" group-title="Canais • Reality Shows",BBB CAM 2
@@ -383,7 +381,6 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6739
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6740
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 8" tvg-logo="" group-title="Canais • Reality Shows",A FAZENDA CAM 8
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6741
-#----- Filmes e Séries -----#
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD LEGENDADO" tvg-logo="" group-title="Canais • Outros",WARNER CHANNEL SD LEGENDADO
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7970
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL HD LEGENDADO" tvg-logo="" group-title="Canais • Outros",WARNER CHANNEL HD LEGENDADO
