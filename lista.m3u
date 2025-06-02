@@ -599,6 +599,10 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3738
 # --- Fim da categoria: Canais • Filmes e Séries ---
 
 # --- Início da categoria: Canais • Esportes ---
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME  1" tvg-logo="https://iili.io/FJ2MwHG.png" group-title="Canais • Esportes",COPA DO BRASIL  1
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7034
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="https://iili.io/FJ2MwHG.png" group-title="Canais • Esportes",COPA DO BRASIL 2
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7037
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD [P]" tvg-logo="https://iili.io/JM59Gvp.png" group-title="Canais • Esportes",BAND SPORTS FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4761
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS FHD H265 [P]" tvg-logo="https://iili.io/JM59Gvp.png" group-title="Canais • Esportes",BAND SPORTS FHD H265 [P]
@@ -621,26 +625,46 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4869
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4030
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SD [P]" tvg-logo="https://iili.io/JM59EaR.png" group-title="Canais • Esportes",COMBATE SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4029
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 1 FHD [P]" tvg-logo="https://iili.io/JM5cSB1.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 1 FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 1 FHD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 1 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4776
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 1 HD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 1 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4777
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 2 FHD [P]" tvg-logo="https://iili.io/JM5cSB1.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 2 FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 2 FHD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 2 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4778
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 2 HD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 2 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4779
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 3 FHD [P]" tvg-logo="https://iili.io/JM5cSB1.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 3 FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 3 FHD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 3 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4780
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 3 HD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 3 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4781
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 4 FHD [P]" tvg-logo="https://iili.io/JM5cSB1.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 4 FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 4 FHD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 4 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4782
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL PARAMOUNT+ 4 HD [P]" tvg-logo="https://iili.io/JGsJqP4.png" group-title="Canais • Esportes",CONMEBOL PARAMOUNT+ 4 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4783
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL  1" tvg-logo="https://iili.io/JGsJclV.png" group-title="Canais • Esportes",COPA DO BRASIL  1
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7034
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO BRASIL 2" tvg-logo="https://iili.io/JGsJclV.png" group-title="Canais • Esportes",COPA DO BRASIL 2
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7037
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Esportes",CONMEBOL TV 1 SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4024
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Esportes",CONMEBOL TV 2 SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4022
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Esportes",CONMEBOL TV 3 SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4020
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Esportes",CONMEBOL TV 4 SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4018
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 01 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4093
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 02 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4094
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 03 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4095
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 04 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 04 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7038
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 05 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 05 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7039
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 06 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 06 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7040
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 07 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 07 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7041
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 08 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Esportes",COPA DO NORDESTE 08 PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7042
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 [P]" tvg-logo="https://iili.io/JGsJ7ix.png" group-title="Canais • Esportes",DAZN 1 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4015
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 [P]" tvg-logo="https://iili.io/JGsJ7ix.png" group-title="Canais • Esportes",DAZN 2 [P]
@@ -691,6 +715,16 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4874
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3977
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA SD [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN EXTRA SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3978
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 01 HD PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4096
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 02 HD PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4097
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 03 HD PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4098
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 04 HD PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4099
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 05 HD PPV
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4100
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD [P]" tvg-logo="https://iili.io/JM59MyN.png" group-title="Canais • Esportes",FOX SPORTS 2 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3964
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD [P]" tvg-logo="https://iili.io/JM59MyN.png" group-title="Canais • Esportes",FOX SPORTS 2 SD [P]
@@ -786,40 +820,7 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3806
 # --- Fim da categoria: Canais • Esportes ---
 
 # --- Início da categoria: Canais • Pay Per View ---
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Pay Per View",CONMEBOL TV 1 SD [P]
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4024
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Pay Per View",CONMEBOL TV 2 SD [P]
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4022
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Pay Per View",CONMEBOL TV 3 SD [P]
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4020
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 SD [P]" tvg-logo="https://iili.io/3pKmoYb.png" group-title="Canais • Pay Per View",CONMEBOL TV 4 SD [P]
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4018
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 01 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4093
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 02 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4094
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 03 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4095
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 04 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 04 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7038
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 05 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 05 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7039
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 06 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 06 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7040
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 07 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 07 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7041
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 08 PPV" tvg-logo="https://iili.io/JGsJaKQ.png" group-title="Canais • Pay Per View",COPA DO NORDESTE 08 PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7042
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Pay Per View",ESTADIO TNT SPORT 01 HD PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4096
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Pay Per View",ESTADIO TNT SPORT 02 HD PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4097
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 03 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Pay Per View",ESTADIO TNT SPORT 03 HD PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4098
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 04 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Pay Per View",ESTADIO TNT SPORT 04 HD PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4099
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 05 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Pay Per View",ESTADIO TNT SPORT 05 HD PPV
-http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4100
+
 # --- Fim da categoria: Canais • Pay Per View ---
 
 # --- Início da categoria: Canais • SBT ---
