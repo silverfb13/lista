@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_BR.xml"
 #EXTM3U
 # --- Início da categoria: Jogos do dia ---
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE ⚽",JOGOS DE HOJE
@@ -101,13 +100,13 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3950
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6862
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NATAL HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6863
-#EXTINF:-1 tvg-id="GloboNews.globo.com" tvg-name="GLOBO NEWS FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3931
-#EXTINF:-1 tvg-id="GloboNews.globo.com" tvg-name="GLOBO NEWS FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6811
-#EXTINF:-1 tvg-id="GloboNews.globo.com" tvg-name="GLOBO NEWS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3930
-#EXTINF:-1 tvg-id="GloboNews.globo.com" tvg-name="GLOBO NEWS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS SD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3929
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NORDESTE HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4925
@@ -173,9 +172,9 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4967
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3945
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RIO SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6765
-#EXTINF:-1 tvg-id="GloboRJ.sbt.com.br" tvg-name="GLOBO RJ FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ FHD H265 (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ FHD H265 (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6928
-#EXTINF:-1 tvg-id="GloboRJ.sbt.com.br" tvg-name="GLOBO RJ HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ HD (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6929
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RONDONIA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RONDONIA HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6766
@@ -211,13 +210,13 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6888
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3751
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SJRP SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7881
-#EXTINF:-1 tvg-id="GloboSP.sbt.com.br" tvg-name="GLOBO SP FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4795
-#EXTINF:-1 tvg-id="GloboSP.sbt.com.br" tvg-name="GLOBO SP FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4880
-#EXTINF:-1 tvg-id="GloboSP.sbt.com.br" tvg-name="GLOBO SP HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3943
-#EXTINF:-1 tvg-id="GloboSP.sbt.com.br" tvg-name="GLOBO SP SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP SD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3942
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ALAGOAS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ALAGOAS FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6940
@@ -255,13 +254,13 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6946
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6947
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV FRONTEIRA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV FRONTEIRA HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6948
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GLOBO TV GAZETA SUL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL FHD (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6949
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GLOBO TV GAZETA SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL HD (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6950
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GLOBO TV GAZETA VITORIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA FHD (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6951
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GLOBO TV GAZETA VITORIA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA HD (BR2)
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITORIA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6952
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEG. ARAXA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV INTEG. ARAXA FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6953
@@ -335,34 +334,34 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6977
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6772
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO VITÓRIA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VITÓRIA HD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6773
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GAZETA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4850
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GAZETA FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD H265 [P]
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4879
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GAZETA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA HD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4851
-#EXTINF:-1 tvg-id="TVGazeta.sp.com.br" tvg-name="GAZETA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA SD [P]
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4852
 # --- Fim da categoria: Canais • Globo ---
 
 # --- Início da categoria: Canais • Reality Shows ---
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 1" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 1
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 1" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 1
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6734
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 2" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 2
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 2" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 2
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6735
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 3" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 3
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 3" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 3
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6736
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 4" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 4
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 4" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 4
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6737
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 5" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 5
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 5" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 5
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6738
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 6" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 6
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 6" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 6
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6739
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 7" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 7
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 7" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 7
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6740
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA CAM 8" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAM 8" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA CAM 8
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6741
-#EXTINF:-1 tvg-id="AFazenda.r7.com" tvg-name="A FAZENDA PRINCIPAL" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA PRINCIPAL
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA PRINCIPAL" tvg-logo="https://iili.io/3pKtn3J.png" group-title="Canais • Reality Shows",A FAZENDA PRINCIPAL
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6733
 #EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD [P]" tvg-logo="https://iili.io/JV25o41.png" group-title="Canais • Reality Shows",BBB 1 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6978
@@ -1552,4 +1551,3 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3828
 #EXTINF:-1 tvg-id="" tvg-name="REDETV SD [P]" tvg-logo="https://iili.io/JjCXBqX.png" group-title="Canais • RedeTv",REDETV SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3827
 # --- Fim da categoria: Canais • RedeTv ---
-
