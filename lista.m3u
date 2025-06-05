@@ -1,16 +1,16 @@
 #EXTM3U
 # --- Início da categoria: Jogos do dia ---
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE ⚽",JOGOS DE HOJE
+#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE ⚽",JOGOS DE HOJE
 http://244a.cc:80/live/kpxXhr/cedYB5/89806.ts
 # --- Fim da categoria: Jogos do dia ---
 # --- Início da categoria: Canais • Globo ---
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO ACRE RIO BRANCO FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6860
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ACRE RIO BRANCO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO HD [P]
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO ACRE RIO BRANCO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6861
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPA SD (P)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPA SD (P)
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO AMAPA SD (P)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPA SD (P)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7873
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPÁ FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPÁ FHD [P]
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO AMAPÁ FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPÁ FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6742
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPÁ HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPÁ HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6743
