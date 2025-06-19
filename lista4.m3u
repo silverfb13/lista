@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/silverfb13/epgauto/refs/heads/main/epg.xml"
+#EXTM3U
 # --- Início da categoria: Jogos do dia ---
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE ⚽",JOGOS DE HOJE
 http://244a.cc:80/live/kpxXhr/cedYB5/89806.ts
