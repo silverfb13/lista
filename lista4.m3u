@@ -6,75 +6,335 @@ http://244a.cc:80/live/kpxXhr/cedYB5/89806.ts
 # --- Fim da categoria: Jogos do dia ---
 
 # --- Início da categoria: Canais • Globo ---
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV MORENA FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO ACRE RIO BRANCO FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6860
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO ACRE RIO BRANCO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO ACRE RIO BRANCO HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6861
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO AMAPA SD (P)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPA SD (P)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7873
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO AMAPÁ FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPÁ FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6742
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO AMAPÁ HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO AMAPÁ HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6743
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BELEM [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BELEM [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3938
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BELEM HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BELEM HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6744
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BELO HORIZONTE FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BELO HORIZONTE FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6889
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BELO HORIZONTE HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BELO HORIZONTE HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6890
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BRASILIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BRASILIA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6891
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BRASILIA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BRASILIA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6752
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO BRASILIA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO BRASILIA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3956
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CEARÁ FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CEARÁ FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6748
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CEARÁ HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CEARÁ HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6749
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CENTRO AMERICA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CENTRO AMERICA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6892
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CENTRO AMERICA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CENTRO AMERICA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6893
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CURITIBA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CURITIBA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6750
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO CURITIBA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO CURITIBA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4964
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV CAMPINAS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV CAMPINAS FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6894
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV CAMPINAS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV CAMPINAS HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6895
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV CAMPINAS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV CAMPINAS HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3955
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV CAMPINAS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV CAMPINAS SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3954
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV RIBEIRAO PRETO FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6896
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV RIBEIRAO PRETO HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6897
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV RIBEIRÃO PRETO HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3947
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV RIBEIRÃO PRETO SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3946
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV SUL DE MINAS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV SUL DE MINAS FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6898
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV SUL DE MINAS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV SUL DE MINAS HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6899
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO EPTV SÃO CARLOS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO EPTV SÃO CARLOS SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3941
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO FEIRA DE SANTANA BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO FEIRA DE SANTANA BAHIA
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7899
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO FLORIANOPOLIS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO FLORIANOPOLIS HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3952
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO FLORIANÓPOLIS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO FLORIANÓPOLIS SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3953
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV ALTO LITORAL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV ALTO LITORAL FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6900
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV ALTO LITORAL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV ALTO LITORAL HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6901
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV CABUGI FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV CABUGI FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6902
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV CABUGI HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV CABUGI HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6903
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV DOS VALES FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV DOS VALES FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6904
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV DOS VALES HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV DOS VALES HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6905
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV GRANDE MINAS MG FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV GRANDE MINAS MG FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6906
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO INTER TV GRANDE MINAS MG HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO INTER TV GRANDE MINAS MG HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6907
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO JUAZEIRO BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO JUAZEIRO BAHIA
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7896
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO JUAZEIRO DO NORTE" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO JUAZEIRO DO NORTE
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7900
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO MARANHÃO FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO MARANHÃO FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6756
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO MARANHÃO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO MARANHÃO HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6757
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO MINAS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO MINAS HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6746
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO MINAS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO MINAS SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3950
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NATAL FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NATAL FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6862
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NATAL HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NATAL HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6863
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NORDESTE HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NORDESTE HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4925
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NORDESTE SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NORDESTE SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3949
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC BLUMENAU FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC BLUMENAU FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6908
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC BLUMENAU HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC BLUMENAU HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6909
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC CHAPECO FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC CHAPECO FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6910
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC CHAPECO HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC CHAPECO HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6911
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC CRICIUMA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC CRICIUMA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6912
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC CRICIUMA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC CRICIUMA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6913
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC JOINVILLE FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC JOINVILLE FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6914
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC JOINVILLE HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC JOINVILLE HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6915
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC TV FLORIANOPOLIS FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6916
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NSC TV FLORIANOPOLIS HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6917
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO PERNAMBUCO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO PERNAMBUCO HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6864
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO PERNAMBUCO SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO PERNAMBUCO SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6865
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO PORTO ALEGRE HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO PORTO ALEGRE HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6768
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO PORTO ALEGRE SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO PORTO ALEGRE SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4968
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS PORTO ALEGRE FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS PORTO ALEGRE FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6918
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS PORTO ALEGRE HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS PORTO ALEGRE HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6919
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD H26 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV CAXIAS DO SUL FHD H26 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6920
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV CAXIAS DO SUL HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6921
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV PASSO FUNDO FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV PASSO FUNDO FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6922
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV PASSO FUNDO HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV PASSO FUNDO HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6923
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV PELOTAS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV PELOTAS FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6924
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RBS TV PELOTAS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RBS TV PELOTAS HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6925
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZONICA ITACOATIARA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZONICA ITACOATIARA
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7895
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZONICA PARINTINS" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZONICA PARINTINS
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7894
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZONICA RONDONIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZONICA RONDONIA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6926
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZONICA RONDONIA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6927
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZÔNICA MANAUS FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZÔNICA MANAUS FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6758
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO REDE AMAZÔNICA MANAUS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO REDE AMAZÔNICA MANAUS HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4967
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RIO HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RIO HD [P]
+http://eryma.fun:80/juniorfont3/rLgxfzzgLARZ/45817
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RIO SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RIO SD [P]
+http://eryma.fun:80/juniorfont3/rLgxfzzgLARZ/45817
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RJ FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ FHD H265 (BR2)
+http://eryma.fun:80/juniorfont3/rLgxfzzgLARZ/45817
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RJ HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RJ HD (BR2)
+http://eryma.fun:80/juniorfont3/rLgxfzzgLARZ/45817
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RONDONIA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RONDONIA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6766
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RONDONIA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RONDONIA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6767
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RORAIMA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RORAIMA FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6760
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RORAIMA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RORAIMA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6761
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC CURITIBA FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC CURITIBA FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6930
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC CURITIBA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC CURITIBA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6931
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC FOZ DO IGUACU FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC FOZ DO IGUACU FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6932
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC FOZ DO IGUACU HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC FOZ DO IGUACU HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6933
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC MARINGA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC MARINGA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6934
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC MARINGA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC MARINGA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6935
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC PARANAVAI FHD H265 (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC PARANAVAI FHD H265 (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6936
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC PARANAVAI HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC PARANAVAI HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6937
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC TV PONTA GROSSA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC TV PONTA GROSSA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6938
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO RPC TV PONTA GROSSA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO RPC TV PONTA GROSSA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6939
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SJRP FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SJRP FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6888
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SJRP HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SJRP HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3751
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SJRP SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SJRP SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7881
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4795
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP FHD H265 [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4880
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3943
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SP SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO SP SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3942
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ALAGOAS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ALAGOAS FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6940
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ALAGOAS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ALAGOAS HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6941
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA ANAPOLIS" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA ANAPOLIS
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7901
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA CATALAO" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA CATALAO
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7902
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6942
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA GOIANIA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6754
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA GOIANIA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6755
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA ITUMBIARA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA ITUMBIARA
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7903
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA JATAI" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA JATAI
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7904
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA LUZIANIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA LUZIANIA
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7905
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV ANHANGUERA PARAGANTU" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV ANHANGUERA PARAGANTU
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7906
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BAHIA [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV BAHIA [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3939
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BAHIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV BAHIA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6943
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BAHIA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV BAHIA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6944
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BAHIA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV BAHIA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6770
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV DIARIO MOGIDAS CRUZES FHD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV DIARIO MOGIDAS CRUZES FHD
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6946
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV FRONTEIRA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV FRONTEIRA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6947
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV FRONTEIRA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV FRONTEIRA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6948
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV GAZETA SUL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6949
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV GAZETA SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA SUL HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6950
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV GAZETA VITORIA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6951
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV GAZETA VITORIA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV GAZETA VITORIA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6952
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV INTEG. ARAXA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV INTEG. ARAXA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6953
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV INTEG. ARAXA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV INTEG. ARAXA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6954
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV INTEG. JUIZ DE FORA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV INTEG. JUIZ DE FORA FHD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6955
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV INTEG. JUIZ DE FORA HD (BR2)
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6956
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV LIBERAL BELEM HD
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6957
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV MORENA FHD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6958
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV MORENA HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV MORENA HD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6959
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV NORDESTE  FHD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV NORDESTE  FHD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV NORDESTE  FHD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV NORDESTE  FHD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6960
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV NORDESTE HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV NORDESTE HD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6961
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV OESTE BARREIRAS BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV OESTE BARREIRAS BAHIA
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV OESTE BARREIRAS BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV OESTE BARREIRAS BAHIA
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7897
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV RIO SUL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV RIO SUL FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV RIO SUL FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV RIO SUL FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6962
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV RIO SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV RIO SUL HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV RIO SUL HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV RIO SUL HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6963
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV SANTA CRUZ ITABUNA BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SANTA CRUZ ITABUNA BAHIA
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV SANTA CRUZ ITABUNA BAHIA" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SANTA CRUZ ITABUNA BAHIA
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7898
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV SERRA MAR FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SERRA MAR FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV SERRA MAR FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SERRA MAR FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6964
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV SERRA MAR HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SERRA MAR HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV SERRA MAR HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV SERRA MAR HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6965
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM BAURU FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM BAURU FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6966
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM BAURU FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU FHD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM BAURU FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3937
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM BAURU HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM BAURU HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6967
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM BAURU HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU HD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM BAURU HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM BAURU HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4924
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM SJRP [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SJRP [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM SJRP [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SJRP [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3936
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM SOROCABA [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM SOROCABA [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3935
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM SOROCABA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM SOROCABA FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6968
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TEM SOROCABA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TEM SOROCABA HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TEM SOROCABA HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6969
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TRIBUNA SANTOS [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TRIBUNA SANTOS [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3934
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TRIBUNA SANTOS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TRIBUNA SANTOS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6970
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV TRIBUNA SANTOS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV TRIBUNA SANTOS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV TRIBUNA SANTOS HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6971
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANG. S.J. CAMPOS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. S.J. CAMPOS FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VANG. S.J. CAMPOS FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. S.J. CAMPOS FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6972
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. S.J. CAMPOS HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. S.J. CAMPOS HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6973
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANG. TAUBATE FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. TAUBATE FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VANG. TAUBATE FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. TAUBATE FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6974
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANG. TAUBATE HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. TAUBATE HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VANG. TAUBATE HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANG. TAUBATE HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6975
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANGUARDA SJDC FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANGUARDA SJDC FHD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VANGUARDA SJDC FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANGUARDA SJDC FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3933
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VERDES MARES [P]" tvg-logo=https://iili.io/JM7UeP1.png"" group-title="Canais • Globo",GLOBO TV VERDES MARES [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV VERDES MARES [P]" tvg-logo=https://iili.io/JM7UeP1.png"" group-title="Canais • Globo",GLOBO TV VERDES MARES [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3932
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO VERDES MARES FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VERDES MARES FHD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO VERDES MARES FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VERDES MARES FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6976
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO VERDES MARES HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VERDES MARES HD (BR2)
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO VERDES MARES HD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VERDES MARES HD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6977
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO VITÓRIA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VITÓRIA FHD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO VITÓRIA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VITÓRIA FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6772
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO VITÓRIA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VITÓRIA HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO VITÓRIA HD" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VITÓRIA HD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6773
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GAZETA FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4850
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD H265 [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GAZETA FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4879
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA HD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GAZETA HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4851
-#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA SD [P]
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GAZETA SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GAZETA SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4852
 # --- Fim da categoria: Canais • Globo ---
 
@@ -445,6 +705,22 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4878
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3961
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3960
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3964
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD H265 [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD H256 [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3964
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3963
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 SD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3963
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 EXTRA FHD [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN EXTRA 6 FHD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4790
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 EXTRA FHD H265 [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN 6 EXTRA FHD H265 [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4874
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 EXTRA HD [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN 6 EXTRA HD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3977
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 EXTRA SD [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN 6 EXTRA SD [P]
+http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3978
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 01 HD PPV
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4096
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD PPV" tvg-logo="https://iili.io/3pKpg5J.png" group-title="Canais • Esportes",ESTADIO TNT SPORT 02 HD PPV
@@ -1284,3 +1560,4 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3828
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDETV SD [P]" tvg-logo="https://iili.io/JjCXBqX.png" group-title="Canais • RedeTv",REDETV SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3827
 # --- Fim da categoria: Canais • RedeTv ---
+
