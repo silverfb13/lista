@@ -318,7 +318,7 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6974
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6975
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VANGUARDA SJDC FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VANGUARDA SJDC FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3933
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VERDES MARES [P]" tvg-logo=https://iili.io/JM7UeP1.png"" group-title="Canais • Globo",GLOBO TV VERDES MARES [P]
+#EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO TV VERDES MARES [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO TV VERDES MARES [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3932
 #EXTINF:-1 tvg-id="tv-globo" tvg-name="GLOBO VERDES MARES FHD (BR2)" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO VERDES MARES FHD (BR2)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6976
@@ -989,13 +989,13 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7022
 # --- Fim da categoria: Canais • Record ---
 
 # --- Início da categoria: Canais • Notícias ---
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FHD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Band",BAND NEWS FHD [P]
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FHD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Notícias",BAND NEWS FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4760
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FHD H265 [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Band",BAND NEWS FHD H265 [P]
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS FHD H265 [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Notícias",BAND NEWS FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6787
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Band",BAND NEWS HD [P]
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Notícias",BAND NEWS HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4069
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS SD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Band",BAND NEWS SD [P]
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS SD [P]" tvg-logo="https://iili.io/JGZMojR.png" group-title="Canais • Notícias",BAND NEWS SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4068
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL FHD [P]" tvg-logo="https://iili.io/JV2IFcJ.png" group-title="Canais • Notícias",CNN BRASIL FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4775
@@ -1017,13 +1017,13 @@ http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/7965
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6992
 #EXTINF:-1 tvg-id="CNN INTERNATIONAL" tvg-name="CNN INTERNACIONAL SD (P)" tvg-logo="https://iili.io/JV2Iq9R.png" group-title="Canais • Notícias",CNN INTERNACIONAL SD (P)
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6993
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD [P]
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Notícias",GLOBO NEWS FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3931
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS FHD H265 [P]
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS FHD H265 [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Notícias",GLOBO NEWS FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6811
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS HD [P]
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Notícias",GLOBO NEWS HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3930
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Globo",GLOBO NEWS SD [P]
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD [P]" tvg-logo="https://iili.io/JM7UeP1.png" group-title="Canais • Notícias",GLOBO NEWS SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3929
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://iili.io/JV2ICwN.png" group-title="Canais • Notícias",JOVEM PAN NEWS FHD
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/6866
