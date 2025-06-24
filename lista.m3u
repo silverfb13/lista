@@ -673,45 +673,45 @@ http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/8101
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/8102
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY + 4" tvg-logo="https://iili.io/F26Izyx.png" group-title="Canais • Esportes",DISNEY + 4
 http://fonte.lista.luxe:80/Thiagosstv/7ECkbwL1GT/8103
-#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN FHD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN FHD [P]
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN FHD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4789
-#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN FHD H265 [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN FHD H265 [P]
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN FHD H265 [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4873
-#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN HD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN HD [P]
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3980
-#EXTINF:-1 tvg-id="lch211" tvg-name="ESPN SD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN SD [P]
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN SD [P]" tvg-logo="https://iili.io/JMfjPLb.png" group-title="Canais • Esportes",ESPN SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3979
-#EXTINF:-1 tvg-id="lch464" tvg-name="ESPN 2 FHD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 FHD [P]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4791
-#EXTINF:-1 tvg-id="lch464" tvg-name="ESPN 2 FHD H265 [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 FHD H265 [P]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD H265 [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4875
-#EXTINF:-1 tvg-id="lch464" tvg-name="ESPN 2 HD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 HD [P]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3976
-#EXTINF:-1 tvg-id="lch464" tvg-name="ESPN 2 SD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 SD [P]
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD [P]" tvg-logo="https://iili.io/JMfjsBj.png" group-title="Canais • Esportes",ESPN2 SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3975
-#EXTINF:-1 tvg-id="lch49" tvg-name="ESPN 3 FHD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 FHD [P]
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4792
-#EXTINF:-1 tvg-id="lch49" tvg-name="ESPN 3 FHD H265 [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 FHD H265 [P]
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD H265 [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4876
-#EXTINF:-1 tvg-id="lch49" tvg-name="ESPN 3 HD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 HD [P]
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3974
-#EXTINF:-1 tvg-id="lch49" tvg-name="ESPN 3 SD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 SD [P]
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 SD [P]" tvg-logo="https://iili.io/JMfj6hu.png" group-title="Canais • Esportes",ESPN3 SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3973
-#EXTINF:-1 tvg-id="lch144" tvg-name="ESPN 4 FHD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 FHD [P]
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3962
-#EXTINF:-1 tvg-id="lch144" tvg-name="ESPN 4 FHD H265 [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 FHD H265 [P]
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD H265 [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 FHD H265 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4878
-#EXTINF:-1 tvg-id="lch144" tvg-name="ESPN 4 HD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 HD [P]
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3961
-#EXTINF:-1 tvg-id="lch144" tvg-name="ESPN 4 SD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 SD [P]
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 SD [P]" tvg-logo="https://iili.io/JMfjQrQ.png" group-title="Canais • Esportes",ESPN 4 SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3960
-#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 FHD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD [P]
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3964
-#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 FHD H265 [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD H256 [P]
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 FHD H265 [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 FHD H256 [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3964
-#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 HD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 HD [P]
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 HD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3963
-#EXTINF:-1 tvg-id="lch855" tvg-name="ESPN 5 SD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 SD [P]
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 SD [P]" tvg-logo="https://iili.io/FzSNVnI.png" group-title="Canais • Esportes",ESPN 5 SD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/3963
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 EXTRA FHD [P]" tvg-logo="https://iili.io/JMfjLEx.png" group-title="Canais • Esportes",ESPN EXTRA 6 FHD [P]
 http://fonte.lista.luxe:80/lucianou882u9s9/Evx93AHRA2/4790
